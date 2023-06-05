@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/measifalam/Login-Card.git/static/css/main.073c9b0a.css",
+    "main.js": "/measifalam/Login-Card.git/static/js/main.0c5ec475.js",
+    "index.html": "/measifalam/Login-Card.git/index.html",
+    "main.073c9b0a.css.map": "/measifalam/Login-Card.git/static/css/main.073c9b0a.css.map",
+    "main.0c5ec475.js.map": "/measifalam/Login-Card.git/static/js/main.0c5ec475.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0c5ec475.js"
+  ]
+}
